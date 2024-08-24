@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @OPgreen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @TW
+- 👀 I’m interested in unique stuffs.
+- 🌱 I’m currently learning programming.
+- 💞️ I’m looking to collaborate on writing.
+- 📫 How to reach me TW Sowrav
 
 <!---
 OPgreen/OPgreen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
